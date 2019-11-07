@@ -38,7 +38,7 @@ const slider = () => {
                         </div>
 
                         <div className="item">
-                            <img src='./Images/ny.jpg' alt="New York" style={styleImage} />
+                            <img src='/Images/ny.jpg' alt="New York" style={styleImage} />
                             <div className="carousel-caption" style={{ top: '50rem' }}>
                                 <h3>New York</h3>
                                 <p>We love the Big Apple!</p>
